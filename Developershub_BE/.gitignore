@@ -1,0 +1,8 @@
+# Backend ignore rules
+node_modules/
+.env
+logs/
+*.log
+coverage/
+.DS_Store
+
